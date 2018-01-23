@@ -23,6 +23,7 @@ public class sample11 {
 		}
 
 		System.out.println("入力は以上です。");
+		scan.close();
 
 	}
 
