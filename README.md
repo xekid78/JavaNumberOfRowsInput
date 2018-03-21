@@ -8,7 +8,7 @@
 ```
 import java.util.Scanner;
 
-public class sample11 {
+public class Rowsinput {
 
 	public static void main(String[] args) {
 
